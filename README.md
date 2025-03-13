@@ -42,6 +42,6 @@ _The CUT&RUN greenlist: genomic regions of consistent noise are effective normal
 **Briefings in Bioinformatics, Volume 25, Issue 2, March 2024**, bbad538  
 [DOI: 10.1093/bib/bbad538](https://doi.org/10.1093/bib/bbad538)
 
-License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
